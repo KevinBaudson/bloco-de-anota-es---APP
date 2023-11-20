@@ -4,7 +4,7 @@ buttomElement.innerHTML = "adicionar";
 let container = document.querySelector("#container");
 let inputElement = document.createElement("input");
 inputElement.classList = ("texto");
-inputElement.placeholder = "Digite aqui:"
+inputElement.placeholder = "Fazer café.."
 container.appendChild(inputElement);
 container.insertBefore(inputElement, buttomElement);
 
@@ -17,11 +17,7 @@ function adicionar() {
     if (inputElement.value){
     var container = document.querySelector("#container");
     var divElement = document.createElement("div");
-
-    
-
-    var textElement = document.querySelector(".texto");
-    
+    var textElement = document.querySelector(".texto");    
     divElement.textContent = textElement.value;
 
     container.appendChild(divElement);
