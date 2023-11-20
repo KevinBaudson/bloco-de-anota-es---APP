@@ -6,4 +6,4 @@
  </div>
 
 ## link do app
-<a href="https://kevinbaudson.github.io/bloco-de-anota-es---APP/" target="_blank">
+<a href="https://kevinbaudson.github.io/bloco-de-anota-es---APP/" target="_blank">Visite o App online</a>
